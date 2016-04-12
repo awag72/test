@@ -1,0 +1,139 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:local="using:App1">
+
+    <Viewbox x:Key="button1Content" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" Stretch="Uniform">
+        <Canvas Name="svg4196" Width="254.99999" Height="254.99999">
+            <Canvas.RenderTransform>
+                <TranslateTransform X="0" Y="0" />
+            </Canvas.RenderTransform>
+            <Canvas.Resources>
+                <LinearGradientBrush xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" x:Key="linearGradient11458" MappingMode="Absolute" StartPoint="25,18" EndPoint="15,7">
+                    <LinearGradientBrush.GradientStops>
+                        <GradientStopCollection>
+                            <GradientStop Color="#FFA5A5A5" Offset="0" />
+                            <GradientStop Color="#FFFFFFFF" Offset="1" />
+                        </GradientStopCollection>
+                    </LinearGradientBrush.GradientStops>
+                    <LinearGradientBrush.Transform>
+                        <ScaleTransform ScaleX="1.0204" ScaleY="0.98005" />
+                    </LinearGradientBrush.Transform>
+                </LinearGradientBrush>
+                <LinearGradientBrush xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" x:Key="linearGradient2892" MappingMode="Absolute" StartPoint="25,18" EndPoint="15,7">
+                    <LinearGradientBrush.GradientStops>
+                        <GradientStopCollection>
+                            <GradientStop Color="#FFA5A5A5" Offset="0" />
+                            <GradientStop Color="#FFFFFFFF" Offset="1" />
+                        </GradientStopCollection>
+                    </LinearGradientBrush.GradientStops>
+                    <LinearGradientBrush.Transform>
+                        <ScaleTransform ScaleX="1.0204" ScaleY="0.98005" />
+                    </LinearGradientBrush.Transform>
+                </LinearGradientBrush>
+            </Canvas.Resources>
+            <!--Unknown tag: sodipodi:namedview-->
+            <!--Unknown tag: metadata-->
+            <Canvas Name="layer1">
+                <Canvas.RenderTransform>
+                    <TranslateTransform X="0" Y="-797.36218" />
+                </Canvas.RenderTransform>
+                <Canvas Name="g4272">
+                    <Canvas.RenderTransform>
+                        <MatrixTransform Matrix="2.5499997 0 0 2.5499995 -821.22037 -416.89936" />
+                    </Canvas.RenderTransform>
+                    <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path4053" Fill="#FFD38D5F" StrokeThickness="1.37780833" Stroke="#FF784421" StrokeMiterLimit="3.9000001" StrokeLineJoin="Bevel" StrokeStartLineCap="Flat" StrokeEndLineCap="Flat">
+                        <Path.Data>
+                            <PathGeometry Figures="m 335.76364 546.40391 18.86454 22.15716 49.96668 -14.81781 -23.64856 -18.51745 z" FillRule="evenodd" />
+                        </Path.Data>
+                    </Path>
+                    <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path4055" Fill="#FFD38D5F" StrokeThickness="1.37780833" Stroke="#FF784421" StrokeMiterLimit="3.9000001" StrokeLineJoin="Bevel" StrokeStartLineCap="Flat" StrokeEndLineCap="Flat">
+                        <Path.Data>
+                            <PathGeometry Figures="m 335.76364 489.72066 0 56.68325 45.18266 -11.1781 0 -52.14683 z" FillRule="evenodd" />
+                        </Path.Data>
+                    </Path>
+                    <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path4057" Fill="#FFD38D5F" StrokeThickness="1.37780833" Stroke="#FF784421" StrokeMiterLimit="3.9000001" StrokeLineJoin="Bevel" StrokeStartLineCap="Flat" StrokeEndLineCap="Flat">
+                        <Path.Data>
+                            <PathGeometry Figures="m 380.9463 483.07898 23.64856 11.00249 0 59.66179 -23.64856 -18.51745 z" FillRule="evenodd" />
+                        </Path.Data>
+                    </Path>
+                    <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path4059" Fill="#FF9C582C" StrokeThickness="1.37780833" Stroke="#FF784421" StrokeMiterLimit="3.9000001" StrokeLineJoin="Bevel" StrokeStartLineCap="Flat" StrokeEndLineCap="Flat">
+                        <Path.Data>
+                            <PathGeometry Figures="m 335.76364 489.72066 18.86454 13.1651 49.96668 -8.80429 -23.64856 -11.00249 z" FillRule="evenodd" />
+                        </Path.Data>
+                    </Path>
+                    <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path4071" Fill="#FF9C582C" StrokeThickness="1.37780833" Stroke="#FF784421" StrokeMiterLimit="3.9000001" StrokeLineJoin="Bevel" StrokeStartLineCap="Flat" StrokeEndLineCap="Flat">
+                        <Path.Data>
+                            <PathGeometry Figures="m 336.18184 522.38104 19.19466 12.67378 49.72527 -10.09127 -23.92187 -10.38838 z" FillRule="evenodd" />
+                        </Path.Data>
+                    </Path>
+                    <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path4063" Fill="#FFCC702E" StrokeThickness="1.37780833" Stroke="#FF784421" StrokeMiterLimit="3.9000001" StrokeLineJoin="Bevel" StrokeStartLineCap="Flat" StrokeEndLineCap="Flat">
+                        <Path.Data>
+                            <PathGeometry Figures="m 335.76364 489.72066 18.86454 13.1651 0 65.67531 -18.86454 -22.15716 z" FillRule="evenodd" />
+                        </Path.Data>
+                    </Path>
+                    <Rectangle xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="322.04724" Canvas.Top="476.18109" Width="100" Height="100.00001" Name="rect3380" />
+                    <Ellipse xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="332.4" Canvas.Top="542" Width="8" Height="8" Name="path5306" Fill="#FF008000" />
+                    <Canvas Name="layer17">
+                        <Canvas.RenderTransform>
+                            <MatrixTransform Matrix="-2.0468822 0 0 2.0575223 417.56662 473.26703" />
+                        </Canvas.RenderTransform>
+                        <Canvas Name="g2880">
+                            <Canvas.RenderTransform>
+                                <TranslateTransform X="0.084656" Y="0.33862" />
+                            </Canvas.RenderTransform>
+                            <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path2085" Fill="#FF158E2D" StrokeThickness="1" Stroke="#FF000000">
+                                <Path.Data>
+                                    <PathGeometry Figures="M 8.9375 15.25 1.3438 20.938 7.1875 30.562 14.688 24.844 8.9375 15.25 Z m -2.0937 3.812 3.7182 6.563 -2.7808 2.125 -3.9374 -6.375 3 -2.313 z" FillRule="evenodd" />
+                                </Path.Data>
+                            </Path>
+                            <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path2089" Fill="{StaticResource linearGradient11458}" StrokeThickness="1" Stroke="#FF000000">
+                                <Path.Data>
+                                    <PathGeometry Figures="m 9.5355 15.648 17.994 -12.406 3.496 4.3645 -2.752 1.1104 -1.406 2.9491 -2.814 0.578 -1.345 3.481 -3.131 0.858 -1.027 3.201 -3.114 0.776 -1.044 3.284 -4.8575 -8.196 z" FillRule="evenodd" />
+                                </Path.Data>
+                            </Path>
+                        </Canvas>
+                    </Canvas>
+                    <Ellipse xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="350.8" Canvas.Top="564.4" Width="8" Height="8" Name="path11478" Fill="#FF008000" />
+                    <Ellipse xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="400.8" Canvas.Top="549" Width="8" Height="8" Name="path11480" Fill="#FF008000" />
+                    <Ellipse xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="400.4" Canvas.Top="490.1" Width="8" Height="8" Name="path11482" Fill="#FF008000" />
+                    <Ellipse xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="377.6" Canvas.Top="478.4" Width="8" Height="8" Name="path11484" Fill="#FF008000" />
+                    <Ellipse xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="332" Canvas.Top="485.7" Width="8" Height="8" Name="path11486" Fill="#FF008000" />
+                    <Ellipse xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="350.8" Canvas.Top="498.6" Width="8" Height="8" Name="path11488" Fill="#FF008000" />
+                </Canvas>
+            </Canvas>
+        </Canvas>
+    </Viewbox>
+
+    <!--Print to XPS + extract Canvas from XPS Page + encapsulate with Viewbox-->
+    <Viewbox x:Key="button2Content" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" Stretch="Uniform">
+        <Canvas Width="271.68" Height="271.68">
+            <Path Data="F0 M 53.76,185.6 L 104.96,245.92 240.96,205.6 176.64,155.2 z" Fill="#ffd38d5f" />
+            <Path Data="F1 M 53.76,185.6 L 104.96,245.92 240.96,205.6 176.64,155.2 z" Stroke="#ff784421" StrokeThickness="3.68" StrokeLineJoin="Bevel" />
+            <Path Data="F0 M 53.76,31.36 L 53.76,185.6 176.64,155.2 176.64,13.44 z" Fill="#ffd38d5f" />
+            <Path Data="F1 M 53.76,31.36 L 53.76,185.6 176.64,155.2 176.64,13.44 z" Stroke="#ff784421" StrokeThickness="3.68" StrokeLineJoin="Bevel" />
+            <Path Data="F0 M 176.64,13.44 L 240.96,43.36 240.96,205.6 176.64,155.2 z" Fill="#ffd38d5f" />
+            <Path Data="F1 M 176.64,13.44 L 240.96,43.36 240.96,205.6 176.64,155.2 z" Stroke="#ff784421" StrokeThickness="3.68" StrokeLineJoin="Bevel" />
+            <Path Data="F0 M 53.76,31.36 L 104.96,67.2 240.96,43.36 176.64,13.44 z" Fill="#ff9c582c" />
+            <Path Data="F1 M 53.76,31.36 L 104.96,67.2 240.96,43.36 176.64,13.44 z" Stroke="#ff784421" StrokeThickness="3.68" StrokeLineJoin="Bevel" />
+            <Path Data="F0 M 104.96,67.2 L 104.96,245.92 240.96,205.6 240.96,43.36 z" Fill="#ffd38a59" />
+            <Path Data="F1 M 104.96,67.2 L 104.96,245.92 240.96,205.6 240.96,43.36 z" Stroke="#ff784421" StrokeThickness="3.68" StrokeLineJoin="Bevel" />
+            <Path Data="F0 M 53.76,31.36 L 104.96,67.2 104.96,245.92 53.76,185.6 z" Fill="#ffcc702e" />
+            <Path Data="F1 M 53.76,31.36 L 104.96,67.2 104.96,245.92 53.76,185.6 z" Stroke="#ff784421" StrokeThickness="3.68" StrokeLineJoin="Bevel" />
+            <Path Data="F1 M 231.84,95.2 L 231.84,145.12" Stroke="#ff6f6f6f" StrokeThickness="4.96" StrokeLineJoin="Miter" StrokeMiterLimit="4" />
+            <Path Data="F1 M 25.28,126.88 C 92.8,193.12 182.08,192.8 251.04,126.24" Stroke="#ff000000" StrokeThickness="15.68" StrokeLineJoin="Miter" StrokeMiterLimit="4" Clip="M 0,94.24 L 271.68,94.24 271.68,225.28 0,225.28 z" />
+            <Path Data="F0 M 33.44,161.6 L 9.92,112 60,134.56 C 46.24,136.8 35.68,147.68 33.44,161.6 z" Fill="#ff000000" />
+            <Path Data="F0 M 216,133.6 L 266.24,111.52 242.4,160.8 C 240.48,147.04 229.92,136.16 216,133.6 z" Fill="#ff000000" />
+            <Path Data="F1 M 25.28,126.88 C 92.8,193.12 182.08,192.8 251.04,126.24" Stroke="#ffff0000" StrokeThickness="11.2" StrokeLineJoin="Miter" StrokeMiterLimit="4" Clip="M 2.24,103.2 L 271.68,103.2 271.68,216.32 2.24,216.32 z" />
+            <Path Data="F0 M 31.2,151.68 L 14.4,116.32 50.08,132.32 C 40.32,133.92 32.64,141.76 31.2,151.68 z" Fill="#ffff0000" />
+            <Path Data="F1 M 31.2,151.68 L 14.4,116.32 50.08,132.32 C 40.32,133.92 32.64,141.76 31.2,151.68 z" Stroke="#ffff0000" StrokeThickness="1.44" StrokeLineJoin="Round" />
+            <Path Data="F0 M 226.08,131.52 L 261.92,115.68 244.8,151.04 C 243.52,141.12 236,133.28 226.08,131.52 z" Fill="#ffff0000" />
+            <Path Data="F1 M 226.08,131.52 L 261.92,115.68 244.8,151.04 C 243.52,141.12 236,133.28 226.08,131.52 z" Stroke="#ffff0000" StrokeThickness="1.44" StrokeLineJoin="Round" />
+            <Path Data="F1 M 126.72,246.88 C 192.96,179.36 192.64,89.92 126.08,21.12" Stroke="#ff000000" StrokeThickness="15.68" StrokeLineJoin="Miter" StrokeMiterLimit="4" Clip="M 94.08,0 L 225.12,0 225.12,271.68 94.08,271.68 z" />
+            <Path Data="F0 M 161.44,238.56 L 111.84,262.08 134.4,212.16 C 136.64,225.76 147.52,236.48 161.44,238.56 z" Fill="#ff000000" />
+            <Path Data="F0 M 133.44,56 L 111.36,5.92 160.64,29.76 C 146.88,31.52 136,42.24 133.44,56 z" Fill="#ff000000" />
+            <Path Data="F1 M 126.72,246.88 C 192.96,179.36 192.64,89.92 126.08,21.12" Stroke="#ff0000ff" StrokeThickness="11.2" StrokeLineJoin="Miter" StrokeMiterLimit="4" Clip="M 103.04,0 L 216.16,0 216.16,270.08 103.04,270.08 z" />
+            <Path Data="F0 M 151.52,240.96 L 116.16,257.76 132.16,222.08 C 133.76,231.84 141.6,239.52 151.52,240.96 z" Fill="#ff0000ff" />
+            <Path Data="F1 M 151.52,240.96 L 116.16,257.76 132.16,222.08 C 133.76,231.84 141.6,239.52 151.52,240.96 z" Stroke="#ff0000ff" StrokeThickness="1.41185" StrokeLineJoin="Round" />
+            <Path Data="F0 M 131.36,46.08 L 115.52,10.24 150.72,27.2 C 140.96,28.64 133.12,36.16 131.36,46.08 z" Fill="#ff0000ff" />
+            <Path Data="F1 M 131.36,46.08 L 115.52,10.24 150.72,27.2 C 140.96,28.64 133.12,36.16 131.36,46.08 z" Stroke="#ff0000ff" StrokeThickness="1.39062" StrokeLineJoin="Round" />
+        </Canvas>
+    </Viewbox>
+</ResourceDictionary>
